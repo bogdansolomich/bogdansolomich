@@ -27,7 +27,7 @@ I'm currently looking for an opportunity to join a development team, contribute 
 - Redux Toolkit
 
 **Backend**
-- Node.js (Basics). Databases (MongoDB, PostgreSQL)
+- Node.js (Basics). Databases: MongoDB, PostgreSQL
 
 **Tools & Deployment**
 - Git & GitHub
